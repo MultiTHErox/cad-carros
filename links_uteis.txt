@@ -6,4 +6,4 @@ http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
 
 teste
 
-scaffold, croods
+scaffold, croods, rails g scaffold
